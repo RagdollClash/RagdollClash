@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Clash&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 59, Total PRs: 236, Total Issues: 233, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 59, Total PRs: 236, Total Issues: 234, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 95.38640277480117;
+        stroke-dashoffset: 95.38550671330314;
       }
     }
   
@@ -180,7 +180,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >233</text>
+      >234</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
